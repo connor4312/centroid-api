@@ -1,0 +1,24 @@
+{
+  "name": "centroid-api",
+  "version": "0.0.1",
+  "description": "API Wrapper for the CentroidMedia API",
+  "main": "index.js",
+  "dependencies": {
+    "q": "~1.0.1",
+    "request": "~2.38.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://connor4312@github.com/connor4312/centroid-api.git"
+  },
+  "keywords": [
+    "centroid",
+    "api",
+    "wrapper"
+  ],
+  "author": "Connor Peet <connor@connorpeet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connor4312/centroid-api/issues"
+  }
+}
